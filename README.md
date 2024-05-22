@@ -23,7 +23,8 @@ and in terminal and run-
 ```bash
   streamlit run recomapp.py
 ```
-
+before this make sure to run recommender.py
+to get the required model files
 
 
 ## Demo
